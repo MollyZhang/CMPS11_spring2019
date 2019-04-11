@@ -1,6 +1,6 @@
 public class Thing {
     public static void main(String[] urlStrings) {
-        String x = "hi";
+        var x = "hi";
         System.out.printf(x);
     }
 }
